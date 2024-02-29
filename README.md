@@ -3,27 +3,32 @@
 ## 작품개요
 ### 개발배경
 대한민국 기준, 하루 평균 유튜브 시청 시간은 58.8분으로 다른 프로그램에 비해 사용 시간면에서 월등히 높다. 유튜브 영상 수요의 증가로 유튜브 영상 업로드 시간이 5년 사이에 약 10배 증가하였으며, 업로드 되는 영상 중 42%는 People 카테고리로 Vlog와 같은 개인의 일상에 관련되는 내용을 담고 있다. 이러한 1인 영상 매체가 성장하며 개인 방송장비 매출도 2년 사이에 540% 증가하였다.
-()()
+
+ <img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A7%A4%EC%B6%9C.png?raw=true" width = 300, height = 300\>  <img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/356167_242543_4944.jpg?raw=true" width = 300, height = 300\>
 ### 전동달리
 영화 촬영 시 사용하는 장비를 최근 소형화, 전동화 시켜서 1인 영상 촬영에 사용되고 있다. 현재 시중에 사용되는 제품은 움직임 설정에 정교함이 없기 때문에 휴대폰 어플을 통해서 섬세한 제어와 다양한 움직임을 가능하게 하는 전동달리 제작을 목표로 하였다.
-()
+
+<img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/3.jpg" height = 250\>
+
 ## 작품 설명
 ### 주요 동작 및 특징
 외관
-()
+<img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/14.JPG" height = 250\>
 - 앞바퀴는 방향을, 뒷바퀴는 전진과 후진 기능을 수행한다.
 - 윗면의 구멍으로 카메라를 고정한다.
 
 애플리케이션 설명 : UI 디자인
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/5.jpg" height = 500\></p>
 
 1. 애플리케이션 시작 화면이다.
 2. 메뉴화면으로 블루투스 연결과 모드선택(직선 촬영, 원형 촬영, 혼합 촬영)이 가능하다.
 3. 직선 촬영 모드 > 이동거리와 이동시간을 입력할 수 있고 기능(순방향, 역방향, 왕복)을 설정이 가능하다
-
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/6.jpg" height = 500\></p>
 4. 원형 촬영 모드 > 이동반경, 이동시간, 회전각도를 입력 할 수 있고 기능(순방향, 역방향, 왕복)을 설정 가능, 이동반경은 회전 반지름을, 회전각도는 원형으로 회전하는 각도를 의미한다.
 5. 혼합 촬영 모드 > 직선촬영모드와 원형 촬영 모드를 합친 모드로 직선운동1-원형운동-직선운동2 구조로 구성, 직선운동 1,2구간의 이동거리와 이동시간과 원형운동의 이동반경, 이동시간, 회전 각도를 입력 할 수 있다. 또한 기능(순방향, 역방향, 왕복)을 설정이 가능하다.
 6. 각 모드에서 실행을 눌렀을 때 넘어가는 화면. 기기 작동 시간이 종료되는 시간을 나타내며 입력 값은 수정이 가능하다.
 
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/13.jpg" height = 200\></p>
 ③,④,⑤번 상단의 전동 달리 그림은 설정 값에 따라 움직이며 사용자가 기기 실행 전 움직임을 알 수 있도록 도와준다.
 ⑥번 상단의 숫자는 기기가 움직이는데 걸리는 시간을 알려주며 시간이 지나면서 감소한다.
 
