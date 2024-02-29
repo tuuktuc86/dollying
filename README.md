@@ -28,11 +28,12 @@
 5. 혼합 촬영 모드 > 직선촬영모드와 원형 촬영 모드를 합친 모드로 직선운동1-원형운동-직선운동2 구조로 구성, 직선운동 1,2구간의 이동거리와 이동시간과 원형운동의 이동반경, 이동시간, 회전 각도를 입력 할 수 있다. 또한 기능(순방향, 역방향, 왕복)을 설정이 가능하다.
 6. 각 모드에서 실행을 눌렀을 때 넘어가는 화면. 기기 작동 시간이 종료되는 시간을 나타내며 입력 값은 수정이 가능하다.
 
-<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/13.jpg" height = 200\></p>
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/13.png" height = 200\></p>
 ③,④,⑤번 상단의 전동 달리 그림은 설정 값에 따라 움직이며 사용자가 기기 실행 전 움직임을 알 수 있도록 도와준다.
 ⑥번 상단의 숫자는 기기가 움직이는데 걸리는 시간을 알려주며 시간이 지나면서 감소한다.
 
 ### 전체 시스템 구성
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%86%B5%EC%8B%A0%EB%B0%A9%EB%B2%95.png" height = 400\></p>
 <> 전송의 시작과 끝을 나타내는 구분자
 ① 촬영 모드(직선 촬영, 원형 촬영, 혼합 촬영)를 결정하는 변수
 ② 직선 촬영 모드 시 이동거리 변수, 혼합 촬영 모드 시 직선운동 1구간의 이동거리 변수
@@ -56,7 +57,12 @@
 ·  2 단계: 전동달리 코딩 개발, 애플리케이션 개발, 전동달리 모델링 및 3D프린터 출력
 ·  3 단계: 3D프린터 파트 조립, 기기 시험 작동 후 코드 수정
 
-### 1단계 : 어플 디자인 구성
+### 0단계 : 아이디어 선정
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/12.jpg" height = 300\></p>
+
+
+### 1단계 : 어플 디자인 및 부품 구성
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%94%94%EC%9E%90%EC%9D%B8.jpg" height = 400\></p>
 
 사용부품 선정
 · 아두이노 우노 x 1ea
