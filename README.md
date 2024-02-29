@@ -4,16 +4,16 @@
 ### 개발배경
 대한민국 기준, 하루 평균 유튜브 시청 시간은 58.8분으로 다른 프로그램에 비해 사용 시간면에서 월등히 높다. 유튜브 영상 수요의 증가로 유튜브 영상 업로드 시간이 5년 사이에 약 10배 증가하였으며, 업로드 되는 영상 중 42%는 People 카테고리로 Vlog와 같은 개인의 일상에 관련되는 내용을 담고 있다. 이러한 1인 영상 매체가 성장하며 개인 방송장비 매출도 2년 사이에 540% 증가하였다.
 
- <img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A7%A4%EC%B6%9C.png?raw=true" width = 300, height = 300\>  <img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/356167_242543_4944.jpg?raw=true" width = 300, height = 300\>
+ <p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A7%A4%EC%B6%9C.png?raw=true" width = 300, height = 300\>  <img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/356167_242543_4944.jpg?raw=true" width = 300, height = 300\></p>
 ### 전동달리
 영화 촬영 시 사용하는 장비를 최근 소형화, 전동화 시켜서 1인 영상 촬영에 사용되고 있다. 현재 시중에 사용되는 제품은 움직임 설정에 정교함이 없기 때문에 휴대폰 어플을 통해서 섬세한 제어와 다양한 움직임을 가능하게 하는 전동달리 제작을 목표로 하였다.
 
-<img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/3.jpg" height = 250\>
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/3.jpg" height = 250\></p>
 
 ## 작품 설명
 ### 주요 동작 및 특징
 외관
-<img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/14.JPG" height = 250\>
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/14.JPG" height = 250\></p>
 - 앞바퀴는 방향을, 뒷바퀴는 전진과 후진 기능을 수행한다.
 - 윗면의 구멍으로 카메라를 고정한다.
 
@@ -74,26 +74,32 @@
 · 바퀴 x 2ea
 
 ### 2단계 : 전동달리 모델링 및 3D프린터 출력
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/14.JPG" height = 400\></p>
 
 전동달리 코드 개발 : github 참고
 어플리케이션 개발 : github 참고
 
 ### 3단계 : 3D프린터 파트 조립
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/15.jpg" height = 400\></p>
 
 
 기기 시험 작동 후 코드 수정
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/13.jpg" height = 400\></p>
 
 ## 기타
 
 ### 회로도
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/20.jpg" height = 400\></p>
 
 ### 플레이스토어 등록
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4.png" height = 400\></p>
 
 ### 계산 과정
 스텝 모터가 움직이는 데 필요한 값 계산
 계산을 시작하기 전에 알아야 하는 값
 
 1. 스텝모터가 1회전이 몇 개의 스텝으로 이루어져 있는지 여부
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%8B%9C%ED%8A%B8.png" height = 400\></p>
 
 2. 바퀴 반지름.
 · 왼쪽 모터의 1회전에 필요한 스텝은 8이다.
@@ -114,6 +120,7 @@ Step angle이 5.425。이고 감속비는 1/64이므로 1스텝 0.084765625。�
 3. 회전수에 스텝 모터 한바퀴 스텝을 곱하여(이번 프로젝트에 사용한 스텝모터의 1회전에 필요한 스텝은 2048) 이동에 필요한 스텝을 알 수 있다.
 
 회전속도 구하기
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/18.jpg" height = 400\></p>
 
 1. rpm = 회전수 * 이동시간 / 60.
 
@@ -123,6 +130,7 @@ L= 기기 길이
 α=  arctan(r/L)
 
 빨간 삼각형과 주황 삼각형은 합동이므로 θ=180-2α이다.
+<p align="center"><img src="https://github.com/tuuktuc86/dollying/blob/master/%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80/13.jpg" height = 700\></p>
 
 
 http://www.ntrexgo.com/archives/39953
